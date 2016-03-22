@@ -24,3 +24,4 @@ This will build the tournament tables
 Load this module into your website or tournament application.  Read the
 docstrings to get info on function usage.
 
+.
